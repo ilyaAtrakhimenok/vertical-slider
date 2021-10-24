@@ -1,5 +1,5 @@
 # Vertical slider
-Deploy: 
+Deploy: https://git-vertical-slider.netlify.app
 ## Technologies
 - HTML
 - CSS
