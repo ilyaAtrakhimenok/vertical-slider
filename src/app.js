@@ -1,7 +1,7 @@
 let container = document.querySelector(".container");
 let leftSide = document.querySelector(".left-side");
 let rightSide = document.querySelector(".right-side");
-
+//
 let upBtn = document.querySelector(".actions__btn-up");
 let downBtn = document.querySelector(".actions__btn-down");
 
